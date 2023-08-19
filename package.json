@@ -4,7 +4,8 @@
   "description": "a raptor like tool, but for the web",
   "private": "true",
   "scripts": {
-    "start": "webpack serve --open --config webpack.dev.js"
+    "start": "webpack serve --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
   },
   "repository": {
     "type": "git",

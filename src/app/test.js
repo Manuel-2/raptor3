@@ -1,5 +1,5 @@
 function hello() {
-  return "hello world! form webpack";
+  return "WEBPACK IS COOL";
 }
 
 export default hello;
