@@ -5,7 +5,7 @@ const prodConfig = {
   mode: "production",
   devtool: "source-map",
   output: {
-    filename: "[name].[contenthash  ].js",
+    filename: "[name].[contenthash].js",
     clean: true,
   },
 };
